@@ -1,4 +1,4 @@
-````md
+
 # NCAgent UI
 
 **NCAgent UI** is an advanced AI-agentic component library and UI registry for building modern web and mobile interfaces faster.
@@ -589,4 +589,4 @@ If you like this project, consider giving it a star on GitHub.
 NCAgent UI is being built for developers, designers, founders, and AI builders who want to create better interfaces faster.
 
 ```
-```
+
